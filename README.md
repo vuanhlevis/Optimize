@@ -11,4 +11,7 @@ For improve loading time videos and images:
  ![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/file_chunk.png) 
  
 - _Global delivery_: can use specialized services called Content Delivery Network (CDN) to store video file to servers closer to users around the world, minimizing delays by location. Setting plan for object caching on Cloudfont, assets, audio or creator can be stored longer
+
+ ![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/CDN.png) 
+
 - _Preprocessing_: video can be prepared and optimized ahead of time so the are ready to be delivered instantly when requested
