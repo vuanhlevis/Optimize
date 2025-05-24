@@ -26,6 +26,11 @@ Make audio more quality, and the voice of actor more natual i found a Model TTS 
         - Multi-speaker conditional encoder
         - Direct 24 kHz dual-channel waveform output
 
+### Model Architecture
+General Architecture of DIA-TTS model
+![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/The-general-architecture-of-the-DIA-TTS-model-which-consists-of-an-encoder-a-DIA-based.png) 
+
+
 ### Traning Inspirations & Data Flow
 ```
 [text transcript + speaker tags + nonverbal tokens]
