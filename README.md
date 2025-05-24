@@ -88,8 +88,8 @@ We can follow up with this public API to integration model: <br>
 | **Hour One**        | Com’l (Web/API) | *Avatar model only (Text→Video)*  | ✘ (offline)         | HD (up to 1080p)     | ★★★☆☆ (good)            | None                  | API (enterprise)           | Cloud (GPU)       | Enterprise (contact)  |
 
 
-_In case of generate video + Dubbed Audio_: Specialized APIs excel. **Sync.so**’s lip-sync API yields top-notch alignment (at ~25 fps real-time throughput). **LipDub AI** is targeted at “Hollywood” quality.
+- _In case of generate video + Dubbed Audio_: Specialized APIs excel. **Sync.so**’s lip-sync API yields top-notch alignment (at ~25 fps real-time throughput). **LipDub AI** is targeted at “Hollywood” quality.
 
-_Static Image → Talking Video_: For the highest realism and fidelity, modern NeRF methods (GeneFace++, Sonic) lead the field. Sonic offers the best lip-sync accuracy (MOS~4.6/5) with no setup cost.
+- _Static Image → Talking Video_: For the highest realism and fidelity, modern NeRF methods **(GeneFace++, Sonic)** lead the field. **Sonic** offers the best lip-sync accuracy (MOS~4.6/5) with no setup cost.
 
 
