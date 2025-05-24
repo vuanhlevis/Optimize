@@ -66,7 +66,7 @@ We can follow up with this public API to integration model: <br>
 
 
 
-3. Video quality
+## 3. Video quality
    - Considering that video quality is significantly influenced by the accuracy of lip-syncing, I conducted in-depth research and have compiled a comparison of several models, as presented below.
 
 | Model / Service     | Open/Commercial | Input (Image+Audio / Video+Audio) | Real-time Capable   | Output Res.          | Lip-sync Quality        | Expression/Emotion    | API / Ease of Use          | Hardware (GPU?)   | Pricing (if SaaS)     |
