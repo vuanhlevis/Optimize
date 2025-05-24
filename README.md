@@ -55,7 +55,9 @@ Make audio more quality, and the voice of actor more natual i found a Model TTS 
 
 
 ### Implement with API: 
-We can follow up with this public API to integration model: [fal.ai ](https://fal.ai/models/fal-ai/dia-tts)
+We can follow up with this public API to integration model: <br>
+    - [fal.ai ](https://fal.ai/models/fal-ai/dia-tts)<br>
+    - [segmind](https://www.segmind.com/models/dia/api)<br>
 
 ## 3. Video quality 
 
