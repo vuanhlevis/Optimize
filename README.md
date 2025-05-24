@@ -1,5 +1,5 @@
 # Optimize
-For improve loading time videos and images:
+## For improve loading time videos and images:
 - _Optimize video files_:
     we reduce the file size without compromising quality by using efficient videos format and compressing videos(h264,265 or vp9)
 
@@ -15,3 +15,11 @@ For improve loading time videos and images:
  ![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/CDN.png) 
 
 - _Preprocessing_: video can be prepared and optimized ahead of time so the are ready to be delivered instantly when requested
+
+
+## Voice Integration
+Base on voice quality and the pricing, i think elevenlabs TTS is the good choice for us:
+- Easy to Use
+- Realistic Voices: The voices generated sound very human-like. They are often clear and have natural-sounding tones and inflections, making the audio more engaging.
+- Voice Cloning: A standout feature is its ability to create a digital copy of a real voice(even style and tone).
+- Multiple Languages: ElevenLabs supports many different languages.
