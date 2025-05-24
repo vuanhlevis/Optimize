@@ -18,7 +18,7 @@
 
 
 ## 2. Voice Integration
-Make audio more quality, and the voice of actor more natual i found a Model TTS of Nari Labs
+Make audio more quality, and the voice of actor more natual i found a Model TTS of Nari Labs seems to be good if we have enough resource to integration
 ### Model Overview
     - Dia (often referred to as DIA-1.6B) – a 1.6 billion-parameter neural TTS model
     - Architecture Highlights:
@@ -53,4 +53,9 @@ Make audio more quality, and the voice of actor more natual i found a Model TTS 
 | **Real-Time Throughput**    | \~40 tokens/sec on a single NVIDIA A4000 GPU (\~10 GB VRAM). Plans for CPU support & quantization. |
 | **Quality Benchmark**       | Independent testers note MOS scores on par with top commercial TTS (≈4.3–4.5).                     |
 
+
+### Implement with API: 
+We can follow up with this public API to integration model: [fal.ai ](https://fal.ai/models/fal-ai/dia-tts)
+
+## 3. Video quality 
 
