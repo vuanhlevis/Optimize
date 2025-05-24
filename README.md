@@ -4,7 +4,7 @@ For improve loading time videos and images:
     we reduce the file size without compromising quality by using efficient videos format and compressing videos(h264,265 or vp9)
 
 ![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/h264_vp9.jpg)
-![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/h264_h265_vp9.png)
+![Model](https://github.com/vuanhlevis/Optimize/blob/main/assets/h264_h265_vp9_av1.png)
 - _Adaptive streaming_:
     instead of sending the whole video at once, we deliver small pieces tailored to the user's internet speef. This can help videos start faster and play smothly without interruptions
 
